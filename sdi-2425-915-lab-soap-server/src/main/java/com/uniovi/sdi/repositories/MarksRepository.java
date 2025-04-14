@@ -7,6 +7,7 @@ import org.springframework.util.Assert;
 import javax.annotation.PostConstruct;
 import java.util.HashMap;
 import java.util.Map;
+
 @Component
 public class MarksRepository {
     private static final Map<String, User> marks = new HashMap<>();

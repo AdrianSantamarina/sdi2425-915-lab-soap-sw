@@ -1,4 +1,4 @@
-package es.uniovi.sdi.sdi2425915labsoapserver;
+package com.uniovi.sdi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
